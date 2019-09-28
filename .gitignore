@@ -102,3 +102,25 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#Project1
+Boston_listings.csv
+Final_Seattle_reviews1.csv
+Final_seattle_listing.csv
+Seattle_listing1.ipynb
+Seattle_listings.csv
+Seattle_original_listings.csv
+Seattle_reviews1 (PJ).txt
+Seattle_reviews1.csv
+Untitled.ipynb
+Untitled1.ipynb
+
+Resources/Boston_calendar1.xlsx
+Resources/Boston_calendar2.xlsx
+Resources/Boston_listings.csv
+Resources/Seattle_calendar1.xlsx
+Resources/Seattle_calendar2.xlsx
+Resources/Seattle_listings.csv
+Resources/Seattle_reviews1.csv
+
+
