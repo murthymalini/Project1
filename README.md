@@ -16,6 +16,6 @@ Outliers & Hypothesis
 Property-wise count breakdown by the Top 5 properties
 Review Scoring of the Top 5 properties 
 Heatmap for Property Type  - Distribution around the towns
-
+.
 
 
