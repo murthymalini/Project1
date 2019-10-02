@@ -18,8 +18,4 @@ Review Scoring of the Top 5 properties
 Heatmap for Property Type  - Distribution around the towns
 
 
-Resources Folder
-Boston Master DF - the combined file of Boston Calendar and Listings
-Seattle Master DF - the combined file of Seattle Calendar and Listings 
 
-Output Folder 
