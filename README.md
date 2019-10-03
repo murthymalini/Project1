@@ -13,8 +13,8 @@ Seattle_gmaps.ipynb
 
 # Research Questions : 
 What attributes contribute to our analysis 
-•	How does average price compare month-wise?
-•	Are there differences between weekday and weekend average pricing?
+- How does average price compare month-wise?
+- Are there differences between weekday and weekend average pricing?
 •	Outliers & Hypothesis 
 •	Property-wise count breakdown by the Top 5 properties
 •	Review Scoring of the Top 5 properties 
