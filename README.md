@@ -37,3 +37,6 @@ What attributes contribute to our analysis
 - More Reviews are written for Seattle than Boston
 - Listings & Usage increased but not a drastic change in price as seen on the weighted average price on heatmap
 
+# Presentation Slide 
+
+https://docs.google.com/presentation/d/1bcraqi_r4oI7R5HPLyfd7Vtp4MNmDu9HE7XPvoaViPg/edit#slide=id.p
